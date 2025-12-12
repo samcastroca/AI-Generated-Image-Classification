@@ -233,7 +233,7 @@ El modelo está desplegado en Hugging Face Spaces con una interfaz Gradio para p
 
 #### Demo Web
 
-🌐 **URL:** [https://juandaram-deepfake-detector-api.hf.space](https://juandaram-deepfake-detector-api.hf.space)
+🌐 **URL:** [[https://juandaram-deepfake-detector-api.hf.space](https://juandaram-deepfake-detector-api.hf.space])
 
 Simplemente:
 1. Sube una imagen
@@ -337,7 +337,7 @@ Este proyecto está bajo la licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 ## 👥 Autores
 
 - **Samuel Castro** - [@samcastroca](https://github.com/samcastroca)
-- **Juan David Ramírez Ortiz**
+- **Juan David Ramírez Ortiz** [@juandaram](https://github.com/juandaram)
 
 ---
 
