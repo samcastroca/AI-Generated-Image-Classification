@@ -44,12 +44,12 @@ python src/inference_script.py <image_path> [options]
 
 Basic usage:
 ```bash
-python src/inference_script.py my_image.jpg
+python src/local_predict/inference_script.py my_image.jpg
 ```
 
 Specify a custom model path:
 ```bash
-python src/inference_script.py my_image.jpg --model_path /path/to/my/model.tflite
+python src/local_predict/inference_script.py --model_path /path/to/my/model.tflite
 ```
 
 Provide class names for the prediction:
